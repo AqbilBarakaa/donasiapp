@@ -6,6 +6,7 @@ Teknologi :
 PHP: 8.*
 MySQL/MariaDB
 
+User Login
 1. Akun User 1
 - email: paldok@gmail.com
 - password: pal123
@@ -13,6 +14,7 @@ MySQL/MariaDB
 - email: aqbil@gmail.com
 - password: lavandula
 
-3. Akun Admin 1
+Admin Login
+1. Akun Admin 1
 - email: admin@gmail.com
 - password: admin1
