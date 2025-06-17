@@ -2,9 +2,8 @@
 Website Donasi dengan Implementasi View, Triger, Cursor, dan Store Procedure
 
 Teknologi :
-
-PHP: 8.*
-MySQL/MariaDB
+- PHP: 8.*
+- MySQL/MariaDB
 
 User Login
 1. Akun User 1
